@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AI text-to-Video Generation Application**.
 
-- 🌱 I’m currently learning **React Native,Python**.
+- 🌱 I’m currently learning **React Native, Python**.
 
 - 💬 Ask me about **React,Angular**. I'd love to help! 
 
