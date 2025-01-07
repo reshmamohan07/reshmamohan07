@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **React,Angular**. I'd love to help! 
 
-- 📫 Reach me <a href="reshmamohanillath@gmail.com">Email</a>
-
 - ⚡ Fun fact 🤩Beyond coding, I’m passionate about finding balance through yoga, caring for my pets, and bringing creativity to life with art and crafts. I thrive on exploring AI and cutting-edge technologies, navigating the stock market, and creating engaging content, all while giving back through volunteering.
 
 
